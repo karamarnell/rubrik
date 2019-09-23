@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [<!ENTITY appname "demo">]>
+<resources custom-attribute="must-be-present-in-translated-file">
+    <string name="key-1">Chronic obstructive pulmonary disease (COPD) is a group of lung diseases that cause difficulty with breathing. COPD includes chronic bronchitis and emphysema. It is the third-leading cause of death in the United States and it currently affects about 15 million Americans.</string>
+    <string name="key-2">Are you at risk for COPD?</string>
+    <string name="demo-1">"A variety of factors may increase your chance of getting COPD. You may be able to avoid some of them, but others are out of your control. The risk factors for COPD include:"</string>
+    <string name="demo-2">"Smoking. This is the most common cause of COPD. People ages 40 and older who smoke or have a history of smoking, have the greatest chance of getting the disease."</string>
+    <string name="demo-3">"Inhaling pollutants. Long-term exposure to things that can irritate your lungs, such as:"</string>
+    <string name="demo-4">"Certain chemicals, dust or fumes in your workplace or home"</string>
+    <string name="demo-5">"Secondhand smoke"</string>
+    <string name="demo-6">"Outdoor and indoor air pollution, including coal dust and fuel, such as wood burned for cooking and heating in poorly-ventilated homes"</string>
+    <string name="demo-7">"Heredity. An inherited condition called alpha-1 antitrypsin deficiency or AAT. AAT deficiency raises your risk for COPD, especially if you smoke. A genetic test can check for AAT deficiency and is done in people who have unexplained lung disease. It is also done for people who develop COPD at an early age."</string>
+    <string name="demo-8">"What can you do to reduce your risk for COPD?"</string>
+    <string name="demo-9">"Whether or not you have COPD risk factors, you can take steps to help prevent it. Follow these tips and any others your doctor recommends:"</string>
+    <string name="demo-10">"Don’t smoke. If you are a smoker, quit. It’s the best thing you can do to help prevent more lung damage. For help:"</string>
+    <string name="demo-11">"Talk to your doctor."</string>
+    <string name="demo-12">"Consider nicotine-replacement or other smoking-cessation medications."</string>
+    <string name="demo-13">"Visit www.smokefree.gov or call 800-QUIT-NOW (800-784-8669)."</string>
+    <string name="demo-15">"Avoid pollutants. Try to stay away from things like smoke and dust that could irritate your lungs. Stay inside as much as possible when the air quality outside is poor."</string>
+    <string name="demo-15">"Important reminders for those with COPD"</string>
+    <!-- Comment on It's ducks all the way down. -->    
+    <string name="key-3">It's ducks all the way down.</string>
+    <plurals name="key-plural-1">
+        <item quantity="one">I have already told you %d time</item>
+        <item quantity="many">I have already told you %d times</item>
+        <item quantity="other">I have already told you %d times</item>
+    </plurals>
+    <string-array name="day_of_week">
+        <!-- First day of the week -->
+        <item>Monday is the first day</item>
+        <item>the rest</item>
+    </string-array>
+</resources>
+
+
