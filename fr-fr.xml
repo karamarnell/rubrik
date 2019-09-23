@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [<!ENTITY appname "demo">]>
+<resources custom-attribute="must-be-present-in-translated-file">
+    <string name="key-1">La maladie pulmonaire obstructive chronique (MPOC) est un groupe de maladies pulmonaires qui rendent la respiration difficile. The  brown fox jumped over the lazy dog. C\'est la troisième cause de décès aux États-Unis et touche actuellement environ 15 millions d\'Américains.</string>
+    <string name="key-2">Vous ne regardez pas un cheval  cadeau dans la bouche</string>
+    <string name="demo-1">"Divers facteurs peuvent augmenter vos chances de contracter la MPOC. Vous pourrez peut-être en éviter certaines, mais d’autres sont hors de votre contrôle. Les facteurs de risque de la MPOC comprennent:"</string>
+    <string name="demo-2">"Fumeur. C'est la cause la plus courante de MPOC. Les personnes âgées de 40 ans ou plus qui fument ou qui ont déjà fumé ont les plus grandes chances de contracter la maladie."</string>
+    <string name="demo-3">"Inhaler des polluants. Exposition à long terme à des objets pouvant irriter vos poumons, tels que:"</string>
+    <string name="demo-4">"Certains produits chimiques, poussières ou vapeurs sur votre lieu de travail ou à la maison"</string>
+    <string name="demo-5">"La fumée secondaire"</string>
+    <string name="demo-6">"Pollution de l'air intérieur et extérieur, y compris poussière de charbon et combustible, comme le bois brûlé pour la cuisson et le chauffage dans des maisons mal ventilées"</string>
+    <string name="demo-7">"Hérédité. Une maladie héréditaire appelée déficit en alpha-1 antitrypsine ou AAT. Une carence en AAT augmente votre risque de MPOC, surtout si vous fumez. Un test génétique peut vérifier le déficit en AAT et est effectué chez les personnes souffrant d'une maladie pulmonaire inexpliquée. C'est également fait pour les personnes qui développent une MPOC à un âge précoce."</string>
+    <string name="demo-8">"Que pouvez-vous faire pour réduire votre risque de MPOC\?"</string>
+    <string name="demo-9">"Que vous ayez ou non des facteurs de risque de MPOC, vous pouvez prendre des mesures pour aider à la prévenir. Suivez ces conseils et tout autre conseil recommandé par votre médecin:"</string>
+    <string name="demo-10">"Ne pas fumer Si vous fumez, arrêtez. C'est la meilleure chose à faire pour prévenir d'autres lésions pulmonaires. Pour aider:"</string>
+    <string name="demo-11">"Parlez à votre médecin."</string>
+    <string name="demo-12">"Envisagez de remplacer la nicotine ou d’autres médicaments pour arrêter de fumer."</string>
+    <string name="demo-13">"Visitez www.smokefree.gov ou appelez le 800-QUIT-NOW (800-784-8669)."</string>
+    <string name="demo-15">Évitez les polluants. Essayez de vous tenir à l’écart de la fumée et de la poussière qui pourraient irriter vos poumons. Restez autant que possible à l\'intérieur lorsque la qualité de l\'air extérieur est médiocre.</string>
+    <!-- Comment on It's ducks all the way down. -->
+    <string name="key-3">Il est des canards tout en bas.</string>
+    <plurals name="key-plural-1">
+        <item quantity="one">I have already told you %d time</item>
+        <item quantity="other">I have already told you %d time</item>
+    </plurals>
+    <string-array name="day_of_week">
+        <!-- First day of the week -->        <item>Monday is the first day</item>
+        <item>the rest</item>
+    </string-array>
+</resources>
