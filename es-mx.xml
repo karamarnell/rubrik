@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [<!ENTITY appname "demo">]>
+<resources custom-attribute="must-be-present-in-translated-file">
+    <string name="key-1">La enfermedad pulmonar obstructiva crónica (EPOC) es un grupo de enfermedades pulmonares que causan dificultad para respirar. El zorro marrón  saltó sobre el perro perezoso Es la tercera causa de muerte en los Estados Unidos y actualmente afecta a unos 15 millones de estadounidenses.</string>
+    <string name="key-2">No pareces un caballo regalado en  la boca</string>
+    <string name="demo-1">"Una variedad de factores puede aumentar su probabilidad de contraer EPOC. Es posible que pueda evitar algunos de ellos, pero otros están fuera de su control. Los factores de riesgo para EPOC incluyen:"</string>
+    <string name="demo-2">"De fumar. Esta es la causa más común de EPOC. Las personas mayores de 40 años que fuman o tienen antecedentes de tabaquismo tienen la mayor probabilidad de contraer la enfermedad."</string>
+    <string name="demo-3">"Inhalación de contaminantes. Exposición a largo plazo a cosas que pueden irritar sus pulmones, como:"</string>
+    <string name="demo-4">"Ciertos productos químicos, polvo o humos en su lugar de trabajo u hogar"</string>
+    <string name="demo-5">"Humo de segunda mano"</string>
+    <string name="demo-6">"Contaminación del aire exterior e interior, incluido el polvo de carbón y el combustible, como la madera quemada para cocinar y calentar en hogares con poca ventilación."</string>
+    <string name="demo-7">"Herencia. Una afección hereditaria llamada deficiencia de alfa-1 antitripsina o AAT. La deficiencia de AAT aumenta su riesgo de EPOC, especialmente si fuma. Una prueba genética puede verificar la deficiencia de AAT y se realiza en personas que tienen una enfermedad pulmonar inexplicable. También se hace para personas que desarrollan EPOC a una edad temprana."</string>
+    <string name="demo-8">"¿Qué puede hacer para reducir su riesgo de EPOC\?"</string>
+    <string name="demo-9">"Ya sea que tenga o no factores de riesgo de EPOC, puede tomar medidas para ayudar a prevenirla. Siga estos consejos y cualquier otro que le recomiende su médico:"</string>
+    <string name="demo-10">"No fume Si es fumador, deje de hacerlo. Es lo mejor que puede hacer para ayudar a prevenir más daño pulmonar. Para ayuda:"</string>
+    <string name="demo-11">"Habla con tu doctor."</string>
+    <string name="demo-12">"Considere el reemplazo de nicotina u otros medicamentos para dejar de fumar."</string>
+    <string name="demo-13">"Visite www.smokefree.gov o llame al 800-QUIT-NOW (800-784-8669)."</string>
+    <string name="demo-15">Evitar contaminantes. Trate de mantenerse alejado de cosas como el humo y el polvo que podrían irritar sus pulmones. Permanezca adentro tanto como sea posible cuando la calidad del aire exterior sea deficiente.</string>
+    <!-- Comment on It's ducks all the way down. -->
+    <string name="key-3">Se agacha hasta el make edits</string>
+    <plurals name="key-plural-1">
+        <item quantity="one">Ya te dije A9181776437773884826U tiempo %d</item>
+        <item quantity="other">Ya te dije A9181776437773884826U tiempo %d</item>
+    </plurals>
+    <string-array name="day_of_week">
+        <!-- First day of the week -->        <item>El lunes es el primer día</item>
+        <item>el resto</item>
+    </string-array>
+</resources>
